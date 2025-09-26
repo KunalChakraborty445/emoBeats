@@ -1,4 +1,4 @@
-# 🎵 emoBeats - Spotify Clone
+# 🎵 emoBeats - Emotion-based music system using machine learning
 
 A modern, responsive Spotify-inspired music streaming application built with React and Material-UI.
 
